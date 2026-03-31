@@ -41,7 +41,7 @@ Designed an infographic using Canva to explain key digital literacy concepts suc
 ###  Task 2 – Student Digital Portfolio
 Created and optimized profiles on platforms like GitHub, LinkedIn, and Stack Overflow to establish a strong professional digital identity and showcase skills and projects.
 
-- **LinkedIn:** www.linkedin.com/in/uday-deval-chaturvedi-3147a8148
+- **LinkedIn:** www.linkedin.com/in/jayant-yadav-67b157374
 
 ---
 
